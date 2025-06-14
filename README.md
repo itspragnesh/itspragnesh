@@ -5,11 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="20%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003366,100:00D9FF&height=150&section=header&text=WELCOME&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="80%"/>
 </div>
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="15%">
 </p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itspragnesh&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&logo=eye" alt="Profile Views" />
