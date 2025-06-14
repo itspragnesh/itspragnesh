@@ -1,31 +1,11 @@
 # <div align="center">⚡ Hi 👋, I'm Gajjala Pragnesh Reddy ⚡</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=150&lines=AI+ENTHUSIAST+%26+DEVELOPER;MACHINE+LEARNING+EXPLORER;PASSIONATE+ABOUT+INNOVATION;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+ENTHUSIAST+%26+DEVELOPER;MACHINE+LEARNING+EXPLORER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:001122,50:003366,75:0066CC,100:00D9FF&height=200&section=header&text=ENTER%20THE%20MATRIX&fontSize=40&fontColor=00FF41&animation=blinking&stroke=00FF41&strokeWidth=2" width="100%"/>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="50">
-</div>
-
----
-
-## <div align="center">🔥 ABOUT ME 🔥</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003366,100:00D9FF&height=150&section=header&text=WELCOME&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -34,25 +14,19 @@
   <img src="https://img.shields.io/badge/FOCUS-AI/ML-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus" />
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
-  <img src="https://github-profile-trophy.vercel.app/?username=itspragnesh&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
-</p>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
-</div>
+## <div align="center">🔥 ABOUT ME 🔥</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itspragnesh&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
 
 ### ⚡ CURRENT FOCUS ⚡
 
@@ -83,21 +57,9 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-</div>
-
 ---
 
 ## <div align="center">⚡ TECH ARSENAL ⚡</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-</div>
 
 <div align="center">
 
@@ -142,51 +104,17 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
 ---
 
-## <div align="center">📊 ADVANCED ANALYTICS 📊</div>
+## <div align="center">📊 GITHUB ANALYTICS 📊</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itspragnesh&theme=react-dark&hide_border=true&area=true&bg_color=000000&color=00D9FF&line=00FF41&point=FF6B35&area_color=001122" alt="Activity Graph"/>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
 ---
 
-## <div align="center">🌐 CONNECT WITH THE MATRIX 🌐</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-</div>
+## <div align="center">🌐 CONNECT WITH ME 🌐</div>
 
 <div align="center">
 <a href="https://linkedin.com/in/pragnesh-reddy-gajjala-014242255" target="_blank">
@@ -206,34 +134,16 @@
 </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=100:00D9FF,75:0066CC,50:003366,25:001122,0:000000&height=200&section=footer&text=THANKS%20FOR%20VISITING&fontSize=35&fontColor=00FF41&animation=blinking&stroke=00D9FF&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:00D9FF,50:003366,0:000000&height=120&section=footer&text=THANKS%20FOR%20VISITING&fontSize=25&fontColor=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=THANK+YOU+FOR+VISITING+MY+DIGITAL+REALM!;LET'S+BUILD+THE+FUTURE+TOGETHER!;⚡+CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE+⚡;🚀+KEEP+EXPLORING+THE+INFINITE+🚀" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=THANK+YOU+FOR+VISITING!;LET'S+BUILD+THE+FUTURE+TOGETHER!;⚡+CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE+⚡" alt="Footer Message" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
   <sub>⚡ From <a href="https://github.com/itspragnesh">itspragnesh</a> ⚡</sub>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
