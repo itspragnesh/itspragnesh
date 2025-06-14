@@ -138,7 +138,7 @@
 
 ---
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="15%">
 </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=100:00D9FF,50:003366,0:000000&height=120&section=footer&text=THANKS%20FOR%20VISITING&fontSize=25&fontColor=FFFFFF" width="100%"/>
