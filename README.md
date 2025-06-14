@@ -1,550 +1,276 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pragnesh Reddy - AI Enthusiast</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+# <div align="center">🚀 Welcome to My Digital Universe! 🚀</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gajjala+Pragnesh+Reddy;AI+Enthusiast+%26+Developer;Machine+Learning+Explorer;Always+Learning+Something+New!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=AI%20Enthusiast&fontSize=40&fontAlignY=35&desc=Passionate%20about%20Machine%20Learning%20%26%20Deep%20Learning&descAlignY=60&descAlign=50" width="100%"/>
+</div>
+
+---
+
+## <div align="center">🌟 About Me 🌟</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itspragnesh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 Current Focus
+```python
+class PragneshReddy:
+    def __init__(self):
+        self.name = "Gajjala Pragnesh Reddy"
+        self.role = "AI Enthusiast & Developer"
+        self.location = "India 🇮🇳"
+        self.learning = ["Generative AI", "LLMs", "Computer Vision"]
+        self.collaborating = "AI-Based Projects"
+        self.expertise = ["Machine Learning", "Deep Learning"]
+        
+    def get_daily_routine(self):
+        return {
+            "code": "Python, JavaScript",
+            "think": "AI Solutions",
+            "learn": "New Technologies",
+            "build": "Innovative Projects"
         }
+```
 
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
-            color: #ffffff;
-            overflow-x: hidden;
-            line-height: 1.6;
-        }
+</td>
+<td align="center" width="50%">
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=itspragnesh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
-        /* Animated Background */
-        .bg-animation {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: -1;
-            overflow: hidden;
-        }
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itspragnesh&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
-        .bg-animation::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: radial-gradient(circle at 20% 50%, rgba(120, 119, 198, 0.1) 0%, transparent 50%),
-                        radial-gradient(circle at 80% 20%, rgba(255, 119, 198, 0.1) 0%, transparent 50%),
-                        radial-gradient(circle at 40% 80%, rgba(120, 219, 255, 0.1) 0%, transparent 50%);
-            animation: bgShift 20s ease-in-out infinite;
-        }
+</td>
+</tr>
+</table>
 
-        @keyframes bgShift {
-            0%, 100% { transform: translateX(0) translateY(0); }
-            25% { transform: translateX(-20px) translateY(-10px); }
-            50% { transform: translateX(20px) translateY(10px); }
-            75% { transform: translateX(-10px) translateY(20px); }
-        }
+---
 
-        /* Header Section */
-        .header {
-            text-align: center;
-            padding: 80px 0;
-            position: relative;
-        }
+## <div align="center">🚀 What I'm Up To 🚀</div>
 
-        .profile-img {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            border: 4px solid transparent;
-            background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1);
-            padding: 4px;
-            margin: 0 auto 30px;
-            animation: pulse 2s ease-in-out infinite;
-        }
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-        .profile-img img {
-            width: 100%;
-            height: 100%;
-            border-radius: 50%;
-            object-fit: cover;
-        }
+### 🌱 Currently Learning
+<img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-4ECDC4?style=for-the-badge&logo=brain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-45B7D1?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-        }
+</td>
+<td align="center" width="33%">
 
-        .main-title {
-            font-size: 3.5rem;
-            font-weight: 800;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 20px;
-            animation: slideInDown 1s ease-out;
-        }
+### 👯 Looking to Collaborate
+<img src="https://img.shields.io/badge/AI%20Projects-96CEB4?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML%20Research-FFEAA7?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/Open%20Source-DDA0DD?style=for-the-badge&logo=github&logoColor=white"/>
 
-        .subtitle {
-            font-size: 1.5rem;
-            color: #a0aec0;
-            margin-bottom: 40px;
-            animation: slideInUp 1s ease-out 0.3s both;
-        }
+</td>
+<td align="center" width="33%">
 
-        @keyframes slideInDown {
-            from { opacity: 0; transform: translateY(-30px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+### 💬 Ask Me About
+<img src="https://img.shields.io/badge/Machine%20Learning-FF7675?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6C5CE7?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-FD79A8?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-        @keyframes slideInUp {
-            from { opacity: 0; transform: translateY(30px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+</td>
+</tr>
+</table>
+</div>
 
-        /* Stats Section */
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 30px;
-            margin: 60px 0;
-        }
+---
 
-        .stat-card {
-            background: rgba(255, 255, 255, 0.05);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 20px;
-            padding: 30px;
-            text-align: center;
-            transition: all 0.3s ease;
-            animation: fadeInUp 0.8s ease-out;
-        }
+## <div align="center">🛠️ Tech Arsenal 🛠️</div>
 
-        .stat-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
-            border-color: rgba(255, 255, 255, 0.2);
-        }
+<div align="center">
 
-        .stat-icon {
-            font-size: 2.5rem;
-            margin-bottom: 15px;
-            display: block;
-        }
+### 🐍 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Programming Languages"/>
 
-        .stat-number {
-            font-size: 2rem;
-            font-weight: bold;
-            color: #4ecdc4;
-            margin-bottom: 10px;
-        }
+### 🤖 AI/ML Frameworks
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML Frameworks"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-        /* About Section */
-        .about {
-            background: rgba(255, 255, 255, 0.03);
-            border-radius: 30px;
-            padding: 50px;
-            margin: 60px 0;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            animation: fadeIn 1s ease-out;
-        }
+### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap" alt="Web Technologies"/>
 
-        .about h2 {
-            font-size: 2.5rem;
-            text-align: center;
-            margin-bottom: 40px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
 
-        .about-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
-        }
+### ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=aws,linux,postman" alt="Cloud & Tools"/>
 
-        .about-item {
-            display: flex;
-            align-items: center;
-            padding: 20px;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 15px;
-            transition: transform 0.3s ease;
-        }
+</div>
 
-        .about-item:hover {
-            transform: translateX(10px);
-        }
+---
 
-        .about-icon {
-            font-size: 1.5rem;
-            margin-right: 15px;
-            color: #4ecdc4;
-        }
+## <div align="center">📈 GitHub Analytics 📈</div>
 
-        /* Skills Section */
-        .skills {
-            margin: 80px 0;
-        }
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspragnesh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</td>
+<td align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itspragnesh&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
+</td>
+</tr>
+</table>
+</div>
 
-        .skills h2 {
-            text-align: center;
-            font-size: 2.5rem;
-            margin-bottom: 50px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itspragnesh&theme=radical" alt="Profile Summary"/>
+</div>
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-            gap: 20px;
-        }
+---
 
-        .skill-card {
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 15px;
-            padding: 25px 15px;
-            text-align: center;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
+## <div align="center">🏆 Achievements & Stats 🏆</div>
 
-        .skill-card:hover {
-            transform: translateY(-5px) scale(1.05);
-            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
-            border-color: #4ecdc4;
-        }
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Profile%20Views-5.2K+-brightgreen?style=for-the-badge&logo=eye&logoColor=white"/>
+<br>👁️ <strong>Profile Views</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/GitHub%20Trophies-15+-gold?style=for-the-badge&logo=trophy&logoColor=white"/>
+<br>🏆 <strong>GitHub Trophies</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Projects-25+-blue?style=for-the-badge&logo=rocket&logoColor=white"/>
+<br>🚀 <strong>Projects</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Repositories-30+-purple?style=for-the-badge&logo=github&logoColor=white"/>
+<br>📁 <strong>Repositories</strong>
+</td>
+</tr>
+</table>
+</div>
 
-        .skill-icon {
-            width: 40px;
-            height: 40px;
-            margin: 0 auto 15px;
-            display: block;
-        }
+---
 
-        .skill-name {
-            font-size: 0.9rem;
-            font-weight: 600;
-            color: #e2e8f0;
-        }
+## <div align="center">🌐 Connect With Me 🌐</div>
 
-        /* Social Links */
-        .social {
-            text-align: center;
-            margin: 80px 0;
-        }
+<div align="center">
+<a href="https://linkedin.com/in/pragnesh-reddy-gajjala-014242255" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://pragneshportfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://instagram.com/praxx.9" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.hackerrank.com/pragneshreddyga1" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://www.leetcode.com/praggy_reddy" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+</div>
 
-        .social h2 {
-            font-size: 2.5rem;
-            margin-bottom: 40px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+---
 
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 30px;
-            flex-wrap: wrap;
-        }
+## <div align="center">💻 Featured Projects 💻</div>
 
-        .social-link {
-            display: flex;
-            align-items: center;
-            padding: 15px 25px;
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 50px;
-            text-decoration: none;
-            color: #e2e8f0;
-            transition: all 0.3s ease;
-            font-weight: 500;
-        }
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-        .social-link:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-            border-color: #4ecdc4;
-            color: #ffffff;
-        }
+### 🤖 AI Projects
+<a href="https://pragneshportfolio.netlify.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=itspragnesh&repo=ai-projects&theme=radical&hide_border=true" alt="AI Projects"/>
+</a>
 
-        .social-icon {
-            width: 24px;
-            height: 24px;
-            margin-right: 10px;
-        }
+</td>
+<td align="center" width="50%">
 
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .main-title {
-                font-size: 2.5rem;
-            }
-            
-            .subtitle {
-                font-size: 1.2rem;
-            }
-            
-            .about {
-                padding: 30px 20px;
-            }
-            
-            .skills-grid {
-                grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-                gap: 15px;
-            }
-            
-            .social-links {
-                gap: 15px;
-            }
-        }
+### 🌐 Web Development
+<a href="https://pragneshportfolio.netlify.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=itspragnesh&repo=web-projects&theme=radical&hide_border=true" alt="Web Projects"/>
+</a>
 
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
+</td>
+</tr>
+</table>
+</div>
 
-        @keyframes fadeInUp {
-            from { opacity: 0; transform: translateY(30px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-    </style>
-</head>
-<body>
-    <div class="bg-animation"></div>
-    
-    <div class="container">
-        <!-- Header Section -->
-        <header class="header">
-            <div class="profile-img">
-                <img src="https://via.placeholder.com/120x120/4ecdc4/ffffff?text=PR" alt="Pragnesh Reddy">
-            </div>
-            <h1 class="main-title">Hi 👋, I'm Pragnesh Reddy</h1>
-            <p class="subtitle">A passionate AI Enthusiast from India</p>
-        </header>
+---
 
-        <!-- Stats Section -->
-        <section class="stats">
-            <div class="stat-card">
-                <span class="stat-icon">👁️</span>
-                <div class="stat-number">5.2K+</div>
-                <div>Profile Views</div>
-            </div>
-            <div class="stat-card">
-                <span class="stat-icon">🏆</span>
-                <div class="stat-number">15+</div>
-                <div>GitHub Trophies</div>
-            </div>
-            <div class="stat-card">
-                <span class="stat-icon">🚀</span>
-                <div class="stat-number">25+</div>
-                <div>Projects Completed</div>
-            </div>
-        </section>
+## <div align="center">🎯 2024 Goals 🎯</div>
 
-        <!-- About Section -->
-        <section class="about">
-            <h2>About Me</h2>
-            <div class="about-grid">
-                <div class="about-item">
-                    <span class="about-icon">🌱</span>
-                    <div>Currently learning <strong>Generative AI</strong></div>
-                </div>
-                <div class="about-item">
-                    <span class="about-icon">👯</span>
-                    <div>Looking to collaborate on <strong>AI-Based Projects</strong></div>
-                </div>
-                <div class="about-item">
-                    <span class="about-icon">👨‍💻</span>
-                    <div>All projects available at <strong>Portfolio</strong></div>
-                </div>
-                <div class="about-item">
-                    <span class="about-icon">💬</span>
-                    <div>Ask me about <strong>Machine Learning & Deep Learning</strong></div>
-                </div>
-            </div>
-        </section>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+🤖<br><strong>Master Generative AI</strong><br>Build LLM applications
+</td>
+<td align="center" width="25%">
+🚀<br><strong>Launch 10 Projects</strong><br>Innovative AI solutions
+</td>
+<td align="center" width="25%">
+🤝<br><strong>Collaborate More</strong><br>Open source contributions
+</td>
+<td align="center" width="25%">
+📚<br><strong>Share Knowledge</strong><br>Tech blogs & tutorials
+</td>
+</tr>
+</table>
+</div>
 
-        <!-- Skills Section -->
-        <section class="skills">
-            <h2>Technologies & Tools</h2>
-            <div class="skills-grid">
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-                    <div class="skill-name">Python</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow">
-                    <div class="skill-name">TensorFlow</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn">
-                    <div class="skill-name">Scikit-learn</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas">
-                    <div class="skill-name">Pandas</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn">
-                    <div class="skill-name">Seaborn</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV">
-                    <div class="skill-name">OpenCV</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-                    <div class="skill-name">JavaScript</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
-                    <div class="skill-name">Node.js</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://reactnative.dev/img/header_logo.svg" alt="React Native">
-                    <div class="skill-name">React Native</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django">
-                    <div class="skill-name">Django</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
-                    <div class="skill-name">MongoDB</div>
-                </div>
-                <div class="skill-card">
-                    <img class="skill-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
-                    <div class="skill-name">AWS</div>
-                </div>
-            </div>
-        </section>
+---
 
-        <!-- Social Links -->
-        <section class="social">
-            <h2>Connect with Me</h2>
-            <div class="social-links">
-                <a href="https://linkedin.com/in/pragnesh-reddy-gajjala-014242255" class="social-link" target="_blank">
-                    <img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
-                    LinkedIn
-                </a>
-                <a href="https://pragneshportfolio.netlify.app/" class="social-link" target="_blank">
-                    <span class="social-icon">🌐</span>
-                    Portfolio
-                </a>
-                <a href="https://instagram.com/praxx.9" class="social-link" target="_blank">
-                    <img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram">
-                    Instagram
-                </a>
-                <a href="https://www.hackerrank.com/pragneshreddyga1" class="social-link" target="_blank">
-                    <img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank">
-                    HackerRank
-                </a>
-                <a href="https://www.leetcode.com/praggy_reddy" class="social-link" target="_blank">
-                    <img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode">
-                    LeetCode
-                </a>
-            </div>
-        </section>
-    </div>
+## <div align="center">📊 Coding Activity 📊</div>
 
-    <script>
-        // Add smooth scrolling and interaction effects
-        document.addEventListener('DOMContentLoaded', function() {
-            // Animate skill cards on scroll
-            const skillCards = document.querySelectorAll('.skill-card');
-            const observerOptions = {
-                threshold: 0.1,
-                rootMargin: '0px 0px -50px 0px'
-            };
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itspragnesh&theme=radical&hide_border=true" alt="Wakatime Stats"/>
+</div>
 
-            const observer = new IntersectionObserver(function(entries) {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        entry.target.style.animation = 'fadeInUp 0.6s ease-out forwards';
-                        entry.target.style.animationDelay = Math.random() * 0.3 + 's';
-                    }
-                });
-            }, observerOptions);
+---
 
-            skillCards.forEach(card => {
-                card.style.opacity = '0';
-                observer.observe(card);
-            });
+## <div align="center">🎵 Fun Fact 🎵</div>
 
-            // Add hover effects to social links
-            const socialLinks = document.querySelectorAll('.social-link');
-            socialLinks.forEach(link => {
-                link.addEventListener('mouseenter', function() {
-                    this.style.transform = 'translateY(-3px) scale(1.05)';
-                });
-                
-                link.addEventListener('mouseleave', function() {
-                    this.style.transform = 'translateY(0) scale(1)';
-                });
-            });
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</div>
 
-            // Add particle effect on click
-            document.addEventListener('click', function(e) {
-                createParticle(e.clientX, e.clientY);
-            });
+---
 
-            function createParticle(x, y) {
-                const particle = document.createElement('div');
-                particle.style.position = 'fixed';
-                particle.style.left = x + 'px';
-                particle.style.top = y + 'px';
-                particle.style.width = '6px';
-                particle.style.height = '6px';
-                particle.style.backgroundColor = '#4ecdc4';
-                particle.style.borderRadius = '50%';
-                particle.style.pointerEvents = 'none';
-                particle.style.zIndex = '9999';
-                particle.style.animation = 'particleFloat 1s ease-out forwards';
-                
-                document.body.appendChild(particle);
-                
-                setTimeout(() => {
-                    particle.remove();
-                }, 1000);
-            }
+## <div align="center">🐍 Contribution Graph 🐍</div>
 
-            // Add CSS for particle animation
-            const style = document.createElement('style');
-            style.textContent = `
-                @keyframes particleFloat {
-                    0% {
-                        transform: translateY(0) scale(1);
-                        opacity: 1;
-                    }
-                    100% {
-                        transform: translateY(-100px) scale(0);
-                        opacity: 0;
-                    }
-                }
-            `;
-            document.head.appendChild(style);
-        });
-    </script>
-</body>
-</html>
+<div align="center">
+<img src="https://github.com/itspragnesh/itspragnesh/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=90&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=itspragnesh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+<sub>⭐ From <a href="https://github.com/itspragnesh">itspragnesh</a> with ❤️</sub>
+</div>
