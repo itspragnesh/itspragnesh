@@ -1,83 +1,91 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#fca311;">Gajjala Pragnesh Reddy</span></h1>
-<h3 align="center">🚀 AI Enthusiast | Developer | Innovator from India 🇮🇳</h3>
-
----
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Gajjala Pragnesh Reddy</h1>
+<h3 align="center">🚀 A Passionate AI Enthusiast | Full Stack Developer | ML/DL Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itspragnesh&label=Profile%20views&color=blueviolet&style=flat-square" alt="itspragnesh" />
-  <img src="https://img.shields.io/github/followers/itspragnesh?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=itspragnesh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="itspragnesh" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itspragnesh&theme=algolia&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itspragnesh&theme=darkhub&row=1&column=6" alt="Profile Trophy" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- Generative AI
-- MERN + Django Stack
-- Computer Vision with OpenCV
+### 👨‍💻 About Me
 
-## 🤝 Open to Collaborate On
-- AI-Based Projects
-- Machine Learning Research
-- Real-World Applications
-
-## 💻 Portfolio
-🔗 [**pragneshportfolio.netlify.app**](https://pragneshportfolio.netlify.app/)
-
-## 💬 Ask Me About
-- Machine Learning, Deep Learning
-- Python, OpenCV, Model Deployment
+- 🌱 Currently learning **Generative AI**
+- 🤝 Looking to collaborate on **AI-Based Real-World Projects**
+- 🧠 Ask me about **Machine Learning, Deep Learning, Computer Vision**
+- 🌐 Portfolio: [https://pragneshportfolio.netlify.app](https://pragneshportfolio.netlify.app)
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/pragnesh-reddy-gajjala-014242255" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/praxx.9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/pragneshreddyga1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" />
-  </a>
-  <a href="https://leetcode.com/praggy_reddy" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
-  </a>
-</p>
-
----
-
-## 🧰 Tech Stack & Tools
+### 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,opencv,pandas,seaborn,aws" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,mongodb,mysql,django" /><br>
-  <img src="https://skillicons.dev/icons?i=linux,git,postman,vscode" />
+  <a href="https://linkedin.com/in/pragnesh-reddy-gajjala-014242255"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://instagram.com/praxx.9"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.hackerrank.com/pragneshreddyga1"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40"/></a>
+  <a href="https://leetcode.com/praggy_reddy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/></a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 💻 Tech Stack & Tools
+
+#### 👨‍🔬 AI / ML / DL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,opencv,seaborn,pandas" />
+</p>
+
+#### 🌐 Full Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,express,nodejs,mongodb,mysql,django" />
+</p>
+
+#### 🧰 Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,postman,linux,vscode,git,github" />
+</p>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itspragnesh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspragnesh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itspragnesh&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspragnesh&theme=radical&hide_border=true" width="48%"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itspragnesh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspragnesh&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-> _“Building intelligent solutions to simplify complex problems.”_
+### 🧠 Projects
 
+| 🔬 Project | 💡 Description | 🧪 Tech Stack |
+|-----------|----------------|--------------|
+| 🫁 Lung Cancer Prediction | AI-based early detection system (98.1% accuracy) | Python, ML, Streamlit |
+| 🧠 Dementia Classifier | MRI + clinical analysis ML model | Scikit-learn, XGBoost |
+| 🔐 X-ray Steganography | Image hiding in X-rays | OpenCV, Python |
+| 🏏 Cricket Outcome Predictor | Predicts match results using PySpark | Spark, MLlib |
+| 🩺 Healthcare AI Lens | NLP + CV-based health support system | Django, OpenCV, Transformer |
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itspragnesh&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🔥 Fun Fact
+
+> “I don't just write code; I architect AI systems that solve human problems.” 💡
+
+---
