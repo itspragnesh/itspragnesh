@@ -5,108 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF&height=120&section=header&text=&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0c0c0c,1a0033,240046,3c096c,5a189a,7b2cbf,9d4edd,c77dff&height=150&section=header&text=&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
-<div style="background: linear-gradient(135deg, #0c0c0c 0%, #1a0033 25%, #240046 50%, #3c096c 75%, #0c0c0c 100%); background-size: 400% 400%; animation: galaxyMove 20s ease-in-out infinite; position: relative; padding: 20px; border-radius: 15px; margin: 20px 0;">
-
-<style>
-@keyframes galaxyMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-@keyframes twinkle {
-  0%, 100% { opacity: 0.3; transform: scale(1); }
-  50% { opacity: 1; transform: scale(1.2); }
-}
-
-.star {
-  position: absolute;
-  background: #fff;
-  border-radius: 50%;
-  animation: twinkle 3s ease-in-out infinite;
-}
-
-.star:nth-child(1) { top: 10%; left: 20%; width: 2px; height: 2px; animation-delay: 0s; }
-.star:nth-child(2) { top: 20%; left: 80%; width: 1px; height: 1px; animation-delay: 1s; }
-.star:nth-child(3) { top: 80%; left: 10%; width: 3px; height: 3px; animation-delay: 2s; }
-.star:nth-child(4) { top: 60%; left: 90%; width: 2px; height: 2px; animation-delay: 0.5s; }
-.star:nth-child(5) { top: 30%; left: 50%; width: 1px; height: 1px; animation-delay: 1.5s; }
-.star:nth-child(6) { top: 90%; left: 60%; width: 2px; height: 2px; animation-delay: 2.5s; }
-.star:nth-child(7) { top: 15%; left: 70%; width: 1px; height: 1px; animation-delay: 3s; }
-.star:nth-child(8) { top: 70%; left: 30%; width: 3px; height: 3px; animation-delay: 0.8s; }
-.star:nth-child(9) { top: 40%; left: 85%; width: 2px; height: 2px; animation-delay: 1.8s; }
-.star:nth-child(10) { top: 85%; left: 15%; width: 1px; height: 1px; animation-delay: 2.3s; }
-.star:nth-child(11) { top: 25%; left: 25%; width: 2px; height: 2px; animation-delay: 1.2s; }
-.star:nth-child(12) { top: 75%; left: 75%; width: 1px; height: 1px; animation-delay: 2.8s; }
-.star:nth-child(13) { top: 5%; left: 45%; width: 3px; height: 3px; animation-delay: 0.3s; }
-.star:nth-child(14) { top: 95%; left: 85%; width: 2px; height: 2px; animation-delay: 1.7s; }
-.star:nth-child(15) { top: 55%; left: 5%; width: 1px; height: 1px; animation-delay: 2.1s; }
-.star:nth-child(16) { top: 35%; left: 95%; width: 2px; height: 2px; animation-delay: 0.9s; }
-.star:nth-child(17) { top: 65%; left: 55%; width: 1px; height: 1px; animation-delay: 1.4s; }
-.star:nth-child(18) { top: 8%; left: 75%; width: 3px; height: 3px; animation-delay: 2.6s; }
-.star:nth-child(19) { top: 88%; left: 35%; width: 2px; height: 2px; animation-delay: 0.6s; }
-.star:nth-child(20) { top: 45%; left: 65%; width: 1px; height: 1px; animation-delay: 1.9s; }
-
-.nebula {
-  position: absolute;
-  border-radius: 50%;
-  filter: blur(20px);
-  opacity: 0.1;
-}
-
-.nebula:nth-child(21) { 
-  top: 10%; left: 10%; 
-  width: 100px; height: 100px; 
-  background: radial-gradient(circle, #9D4EDD 0%, transparent 70%); 
-  animation: float 15s ease-in-out infinite;
-}
-
-.nebula:nth-child(22) { 
-  top: 60%; right: 10%; 
-  width: 80px; height: 80px; 
-  background: radial-gradient(circle, #C77DFF 0%, transparent 70%); 
-  animation: float 20s ease-in-out infinite reverse;
-}
-
-.nebula:nth-child(23) { 
-  bottom: 20%; left: 20%; 
-  width: 120px; height: 120px; 
-  background: radial-gradient(circle, #F72585 0%, transparent 70%); 
-  animation: float 18s ease-in-out infinite;
-}
-
-@keyframes float {
-  0%, 100% { transform: translateY(0px) rotate(0deg); }
-  50% { transform: translateY(-20px) rotate(180deg); }
-}
-</style>
-
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="star"></div>
-<div class="nebula"></div>
-<div class="nebula"></div>
-<div class="nebula"></div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 ---
 
@@ -116,13 +20,17 @@
   <img src="https://komarev.com/ghpvc/?username=itspragnesh&label=Profile%20views&color=9D4EDD&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
   <img src="https://github-profile-trophy.vercel.app/?username=itspragnesh&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+</p>
 
-<table align="center" style="background: rgba(0,0,0,0.3); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px);">
+<table align="center">
 <tr>
-<td align="center" width="50%" style="color: #E0AAFF;">
+<td align="center" width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### 🎯 Current Focus
 
@@ -148,11 +56,19 @@
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
 ---
 
 ## <div align="center">🛠️ Languages and Tools 🛠️</div>
 
-<div align="center" style="background: rgba(0,0,0,0.2); padding: 30px; border-radius: 20px; margin: 20px 0; backdrop-filter: blur(5px);">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</p>
+
+<div align="center">
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/Python-240046?style=for-the-badge&logo=python&logoColor=C77DFF"/>
@@ -185,11 +101,19 @@
 
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</p>
+
 ---
 
 ## <div align="center">📈 GitHub Analytics 📈</div>
 
-<div align="center" style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px);">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</p>
+
+<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -202,11 +126,21 @@
 </table>
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
 ---
 
 ## <div align="center">🌐 Connect with me 🌐</div>
 
-<div align="center" style="background: rgba(157, 78, 221, 0.1); padding: 25px; border-radius: 20px; backdrop-filter: blur(5px); margin: 20px 0;">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</p>
+
+<div align="center">
 <a href="https://linkedin.com/in/pragnesh-reddy-gajjala-014242255" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-240046?style=for-the-badge&logo=linkedin&logoColor=C77DFF" alt="LinkedIn"/>
 </a>
@@ -224,18 +158,22 @@
 </a>
 </div>
 
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C77DFF,9D4EDD,7B2CBF,5A189A,3C096C,240046&height=120&section=footer&text=&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=c77dff,9d4edd,7b2cbf,5a189a,3c096c,240046,1a0033,0c0c0c&height=150&section=footer&text=&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=9D4EDD&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together!" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=9D4EDD&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting!;Let's+build+something+amazing+together!;✨+May+the+code+be+with+you+✨" alt="Footer Message" />
 </div>
 
-<div align="center">
-<sub>⭐ From <a href="https://github.com/itspragnesh">itspragnesh</a></sub>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+  <sub>⭐ From <a href="https://github.com/itspragnesh">itspragnesh</a></sub>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+</p>
