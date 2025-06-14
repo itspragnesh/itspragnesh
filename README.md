@@ -7,7 +7,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003366,100:00D9FF&height=150&section=header&text=WELCOME&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
-
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif](https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk4ODU3NTUsIm5iZiI6MTc0OTg4NTQ1NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE0VDA3MTczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViY2JkZWNlYjNlYWRhZjI3N2RkMTZlNzM1ODRjOGYxZjFkYjg2ZmZiNzU3NWU5M2I4MDVjYzQ4M2Q2N2JmZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OQVqgiwyqbpjOJ3d9d2WIVdXcgKSQgWZ72zR8Vl2_CI)" width="280">
+</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itspragnesh&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&logo=eye" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-CODING-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Status" />
