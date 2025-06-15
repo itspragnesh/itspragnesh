@@ -70,7 +70,7 @@
 <img src="https://img.shields.io/badge/JavaScript-001122?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/HTML5-003366?style=for-the-badge&logo=html5&logoColor=FF6B35"/>
 <img src="https://img.shields.io/badge/CSS3-0066CC?style=for-the-badge&logo=css3&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41"/>
+
 
 ### 🧠 AI/ML & DATA SCIENCE 🧠
 <img src="https://img.shields.io/badge/TensorFlow-001122?style=for-the-badge&logo=tensorflow&logoColor=FF6B35"/>
@@ -83,7 +83,7 @@
 
 ### 🌐 WEB DEVELOPMENT 🌐
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/React_Native-001122?style=for-the-badge&logo=react&logoColor=00FF41"/>
+
 <img src="https://img.shields.io/badge/Node.js-003366?style=for-the-badge&logo=node.js&logoColor=FF6B35"/>
 <img src="https://img.shields.io/badge/Express.js-0066CC?style=for-the-badge&logo=express&logoColor=00D9FF"/>
 <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF41"/>
@@ -91,11 +91,11 @@
 
 ### 🗄️ DATABASES & CLOUD ☁️
 <img src="https://img.shields.io/badge/MongoDB-003366?style=for-the-badge&logo=mongodb&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0066CC?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
+
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF6B35"/>
-<img src="https://img.shields.io/badge/Redis-001122?style=for-the-badge&logo=redis&logoColor=00D9FF"/>
+
 <img src="https://img.shields.io/badge/Amazon_AWS-003366?style=for-the-badge&logo=amazon-aws&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Docker-0066CC?style=for-the-badge&logo=docker&logoColor=FF6B35"/>
+
 
 ### ⚙️ TOOLS & PLATFORMS ⚙️
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00D9FF"/>
