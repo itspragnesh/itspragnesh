@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150§ion=header&text=Enter+My+Cosmic+Code+Universe&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=0.4" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=160§ion=header&text=Welcome+to+My+Cosmic+Code+Universe&fontSize=50&fontColor=FFFFFF&animation=glow&fontAlignY=0.5&gradientColor1=FF00FF&gradientColor2=00FFFF" width="80%"/>
 </div>
 
 <div align="center">
@@ -62,41 +62,136 @@
 ## <div align="center">🪐 Tech Arsenal 🪐</div>
 
 <div align="center">
+  <style>
+    .tech-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      padding: 20px;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .tech-card {
+      background: #1C1C4D;
+      border-radius: 10px;
+      padding: 15px;
+      text-align: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .tech-card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 15px #FF00FF;
+    }
+    .tech-card img {
+      width: 40px;
+      height: 40px;
+      margin-bottom: 10px;
+    }
+    .tech-card p {
+      color: #FFFFFF;
+      font-size: 14px;
+      margin: 0;
+    }
+  </style>
 
-### 💾 Programming Languages
-<img src="https://img.shields.io/badge/Python-0A0A23?style=plastic&logo=python&logoColor=FF00FF"/>
-<img src="https://img.shields.io/badge/JavaScript-0A0A23?style=plastic&logo=javascript&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/HTML5-0A0A23?style=plastic&logo=html5&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/CSS3-0A0A23?style=plastic&logo=css3&logoColor=FF00FF"/>
-
-### 🤖 AI/ML & Data Science
-<img src="https://img.shields.io/badge/TensorFlow-0A0A23?style=plastic&logo=tensorflow&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/PyTorch-0A0A23?style=plastic&logo=pytorch&logoColor=FF00FF"/>
-<img src="https://img.shields.io/badge/Scikit--learn-0A0A23?style=plastic&logo=scikit-learn&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/OpenCV-0A0A23?style=plastic&logo=opencv&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Pandas-0A0A23?style=plastic&logo=pandas&logoColor=FF00FF"/>
-<img src="https://img.shields.io/badge/NumPy-0A0A23?style=plastic&logo=numpy&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/Keras-0A0A23?style=plastic&logo=keras&logoColor=FFD700"/>
-
-### 🌐 Web Development
-<img src="https://img.shields.io/badge/React-0A0A23?style=plastic&logo=react&logoColor=FF00FF"/>
-<img src="https://img.shields.io/badge/Node.js-0A0A23?style=plastic&logo=node.js&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/Express.js-0A0A23?style=plastic&logo=express&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Django-0A0A23?style=plastic&logo=django&logoColor=FF00FF"/>
-<img src="https://img.shields.io/badge/FastAPI-0A0A23?style=plastic&logo=fastapi&logoColor=00FFFF"/>
-
-### 🗄 Databases & Cloud
-<img src="https://img.shields.io徽章/MongoDB-0A0A23?style=plastic&logo=mongodb&logoColor=FF00FF"/>
-<img src="https://img.shields.io/badge/MySQL-0A0A23?style=plastic&logo=mysql&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/AWS-0A0A23?style=plastic&logo=amazon-aws&logoColor=FFD700"/>
-
-### ⚙ Tools & Platforms
-<img src="https://img.shields.io/badge/Linux-0A0A23?style=plastic&logo=linux&logoColor=FF00FF"/>
-<img src="https://img.shields.io/badge/Git-0A0A23?style=plastic&logo=git&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-0A0A23?style=plastic&logo=visual-studio-code&logoColor=FFD700"/>
-<img src="https://img.shields.io/badge/Jupyter-0A0A23?style=plastic&logo=jupyter&logoColor=FF00FF"/>
-<img src="https://img.shields.io/badge/Postman-0A0A23?style=plastic&logo=postman&logoColor=00FFFF"/>
-
+  <div class="tech-grid">
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+      <p>Python</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+      <p>JavaScript</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+      <p>HTML5</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+      <p>CSS3</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+      <p>TensorFlow</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/>
+      <p>PyTorch</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/ios-filled/50/FFFFFF/scikit-learn.png" alt="Scikit-learn"/>
+      <p>Scikit-learn</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
+      <p>OpenCV</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
+      <p>Pandas</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/>
+      <p>NumPy</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras"/>
+      <p>Keras</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+      <p>React</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+      <p>Node.js</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/ios/50/FFFFFF/express-js.png" alt="Express.js"/>
+      <p>Express.js</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+      <p>Django</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI"/>
+      <p>FastAPI</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+      <p>MongoDB</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
+      <p>MySQL</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+      <p>AWS</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+      <p>Linux</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+      <p>Git</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+      <p>VS Code</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter"/>
+      <p>Jupyter</p>
+    </div>
+    <div class="tech-card">
+      <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman"/>
+      <p>Postman</p>
+    </div>
+  </div>
 </div>
 
 ---
@@ -136,11 +231,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120§ion=footer&text=Thanks+for+Exploring+My+Universe!&fontSize=35&fontColor=FFFFFF&animation=scaleIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120§ion=footer&text=Thanks+for+Exploring+My+Universe!&fontSize=40&fontColor=FFFFFF&animation=fadeIn&gradientColor1=00FFFF&gradientColor2=FFD700" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&duration=4000&pause=1000&color=FF00FF&background=0A0A23¢er=true&vCenter=true&multiline=true&width=500&height=80&lines=Thanks+for+Visiting!;Let's+Code+the+Future+Together!;🌌+Innovate+•+Create+•+Inspire+🌌" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&duration=4000&pause=1000&color=00FFFF&background=0A0A23¢er=true&vCenter=true&multiline=true&width=500&height=80&lines=Thanks+for+Visiting!;Let's+Code+the+Future+Together!;🌌+Innovate+•+Create+•+Inspire+🌌" alt="Footer Message" />
 </div>
 
 <div align="center">
