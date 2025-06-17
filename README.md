@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=30&duration=3200&pause=700&color=FF00FF&background=0A0A23&center=true&vCenter=true&multiline=true&width=720&height=110&lines=AI+Architect+%26+Code+Visionary;Deep+Learning+Pioneer;Shaping+Tomorrow's+Tech" alt="Typing SVG" />
 </div>
-
+<p></p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140§ion=header&text=Welcome+to+My+Code+Cosmos&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=0.45" width="85%"/>
 </div>
