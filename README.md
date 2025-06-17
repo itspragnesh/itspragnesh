@@ -1,151 +1,179 @@
-# <div align="center">⚡ Hi 👋, I'm Gajjala Pragnesh Reddy⚡</div>
+# Hey there! 👨‍💻 I'm **Gajjala Pragnesh Reddy**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+ENTHUSIAST+%26+DEVELOPER;MACHINE+LEARNING+EXPLORER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Developer+%26+ML+Engineer;Building+Tomorrow's+Intelligence;Code+%7C+Create+%7C+Innovate" alt="Dynamic Typing"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003366,100:00D9FF&height=150&section=header&text=WELCOME&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="80%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itspragnesh&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/STATUS-CODING-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/FOCUS-AI/ML-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/github/followers/itspragnesh?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=itspragnesh&color=6366f1&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" alt="Open to collaborate"/>
 </div>
 
 ---
 
-## <div align="center">🔥 ABOUT ME 🔥</div>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itspragnesh&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
-
-### ⚡ CURRENT FOCUS ⚡
-
-🤖 **MASTERING:** Generative AI & Neural Networks
-
-🚀 **COLLABORATING ON:** AI-Based Revolutionary Projects
-
-💻 **PORTFOLIO:** [**EXPLORE MY DIGITAL UNIVERSE**](https://pragneshportfolio.netlify.app/)
-
-🧠 **ASK ME ABOUT:** Machine Learning | Deep Learning | AI Ethics
-
-🌍 **LOCATION:** India 🇮🇳
-
-🎯 **MISSION:** Building AI that changes the world
-
-</td>
-<td align="center" width="50%">
-
-### 📊 PERFORMANCE METRICS 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=itspragnesh&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=000000&title_color=00D9FF&icon_color=00FF41&text_color=FFFFFF&ring_color=FF6B35" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itspragnesh&theme=neon-dark&hide_border=true&background=000000&ring=00D9FF&fire=FF6B35&currStreakLabel=00FF41&stroke=00D9FF" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspragnesh&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&bg_color=000000&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
+```typescript
+const pragnesh = {
+    role: "AI Developer & ML Engineer",
+    location: "India 🇮🇳",
+    currentFocus: ["Generative AI", "Neural Networks", "Computer Vision"],
+    technologies: {
+        languages: ["Python", "JavaScript", "TypeScript"],
+        aiml: ["TensorFlow", "PyTorch", "OpenCV", "Transformers"],
+        web: ["React", "Node.js", "FastAPI", "Django"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        cloud: ["AWS", "Docker", "Kubernetes"]
+    },
+    currentlyLearning: "Advanced Deep Learning Architectures",
+    askMeAbout: ["Machine Learning", "AI Ethics", "Neural Networks"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
 
 ---
 
-## <div align="center">⚡ TECH ARSENAL ⚡</div>
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Database & Cloud</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itspragnesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspragnesh&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-### 🔥 PROGRAMMING LANGUAGES 🔥
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/JavaScript-001122?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/HTML5-003366?style=for-the-badge&logo=html5&logoColor=FF6B35"/>
-<img src="https://img.shields.io/badge/CSS3-0066CC?style=for-the-badge&logo=css3&logoColor=00D9FF"/>
-
-
-### 🧠 AI/ML & DATA SCIENCE 🧠
-<img src="https://img.shields.io/badge/TensorFlow-001122?style=for-the-badge&logo=tensorflow&logoColor=FF6B35"/>
-<img src="https://img.shields.io/badge/PyTorch-003366?style=for-the-badge&logo=pytorch&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/scikit--learn-0066CC?style=for-the-badge&logo=scikit-learn&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=FF6B35"/>
-<img src="https://img.shields.io/badge/pandas-001122?style=for-the-badge&logo=pandas&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/NumPy-003366?style=for-the-badge&logo=numpy&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Keras-0066CC?style=for-the-badge&logo=keras&logoColor=FF6B35"/>
-
-### 🌐 WEB DEVELOPMENT 🌐
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D9FF"/>
-
-<img src="https://img.shields.io/badge/Node.js-003366?style=for-the-badge&logo=node.js&logoColor=FF6B35"/>
-<img src="https://img.shields.io/badge/Express.js-0066CC?style=for-the-badge&logo=express&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/FastAPI-001122?style=for-the-badge&logo=fastapi&logoColor=FF6B35"/>
-
-### 🗄️ DATABASES & CLOUD ☁️
-<img src="https://img.shields.io/badge/MongoDB-003366?style=for-the-badge&logo=mongodb&logoColor=00D9FF"/>
-
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF6B35"/>
-
-<img src="https://img.shields.io/badge/Amazon_AWS-003366?style=for-the-badge&logo=amazon-aws&logoColor=00FF41"/>
-
-
-### ⚙️ TOOLS & PLATFORMS ⚙️
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Git-001122?style=for-the-badge&logo=git&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/VS_Code-003366?style=for-the-badge&logo=visual-studio-code&logoColor=FF6B35"/>
-<img src="https://img.shields.io/badge/Jupyter-0066CC?style=for-the-badge&logo=jupyter&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspragnesh&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## <div align="center">📊 GITHUB ANALYTICS 📊</div>
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itspragnesh&theme=react-dark&hide_border=true&area=true&bg_color=000000&color=00D9FF&line=00FF41&point=FF6B35&area_color=001122" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=itspragnesh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## <div align="center">🌐 CONNECT WITH ME 🌐</div>
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       8 hrs 32 mins   ████████████░░░░░░░░░░░░░   48.2%
+JavaScript   4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.1%
+TypeScript   2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.6%
+HTML         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    7.6%
+CSS          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    4.5%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🌟 Featured Projects
 
 <div align="center">
-<a href="https://linkedin.com/in/pragnesh-reddy-gajjala-014242255" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=001122" alt="LinkedIn"/>
-</a>
-<a href="https://pragneshportfolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-003366?style=for-the-badge&logo=google-chrome&logoColor=00FF41&labelColor=001122" alt="Portfolio"/>
-</a>
-<a href="https://instagram.com/praxx.9" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0066CC?style=for-the-badge&logo=instagram&logoColor=FF6B35&labelColor=001122" alt="Instagram"/>
-</a>
-<a href="https://www.hackerrank.com/pragneshreddyga1" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00D9FF&labelColor=001122" alt="HackerRank"/>
-</a>
-<a href="https://www.leetcode.com/praggy_reddy" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-001122?style=for-the-badge&logo=leetcode&logoColor=00FF41&labelColor=003366" alt="LeetCode"/>
-</a>
+  <a href="https://github.com/itspragnesh/ai-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itspragnesh&repo=ai-project&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/itspragnesh/ml-algorithms">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itspragnesh&repo=ml-algorithms&theme=tokyonight" />
+  </a>
 </div>
 
 ---
+
+## 💡 Current Focus
+
+```python
+class CurrentGoals:
+    def __init__(self):
+        self.learning = [
+            "Advanced Transformer Architectures",
+            "MLOps & Model Deployment",
+            "Computer Vision with GANs"
+        ]
+        self.building = [
+            "AI-powered Web Applications",
+            "Custom Neural Network Frameworks",
+            "Automated ML Pipelines"
+        ]
+        self.contributing_to = "Open Source AI Projects"
+    
+    def get_collaboration_interests(self):
+        return [
+            "AI Research Projects",
+            "Innovative Startups",
+            "Educational Content Creation"
+        ]
+```
+
+---
+
+## 🤝 Let's Connect!
+
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="15%">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragnesh-reddy-gajjala-014242255)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pragneshportfolio.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/praxx.9)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pragneshreddyga1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/praggy_reddy)
+
 </div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:00D9FF,50:003366,0:000000&height=120&section=footer&text=THANKS%20FOR%20VISITING&fontSize=25&fontColor=FFFFFF" width="100%"/>
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+amazing+things+together!;Feel+free+to+reach+out+anytime!" alt="Footer Message"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=THANK+YOU+FOR+VISITING!;LET'S+BUILD+THE+FUTURE+TOGETHER!;⚡+CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE+⚡" alt="Footer Message" />
+  <sub>Made with ❤️ by <a href="https://github.com/itspragnesh">Pragnesh</a></sub>
 </div>
 
+---
+
 <div align="center">
-  <sub>⚡ From <a href="https://github.com/itspragnesh">itspragnesh</a> ⚡</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer"/>
 </div>
