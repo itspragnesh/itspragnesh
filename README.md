@@ -22,6 +22,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=itspragnesh&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
+
 <table align="center">
 <tr>
 <td align="center" width="50%">
