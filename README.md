@@ -1,7 +1,7 @@
 # <div align="center">⚡ Hi 👋, I'm Gajjala Pragnesh Reddy⚡</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+ENTHUSIAST+%26+DEVELOPER;MACHINE+LEARNING+EXPLORER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+ENTHUSIAST+%26+DEVELOPER;MACHINE+LEARNING+EXPLORER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG" />
 </div>
 
 <div align="center">
