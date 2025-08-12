@@ -4,7 +4,7 @@
 
 # ⚡ Hi 👋, I'm Gajjala Pragnesh Reddy ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=AI+ENTHUSIAST+%26+DEVELOPER;MACHINE+LEARNING+EXPLORER;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:BA55D3,100:FF69B4&height=150&section=header&text=WELCOME&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="80%"/>
 
