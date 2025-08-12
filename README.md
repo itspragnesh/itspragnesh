@@ -7,7 +7,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:BA55D3,100:FF69B4&height=150&section=header&text=WELCOME&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="80%"/>
-
+<p></p>
 <img src="https://komarev.com/ghpvc/?username=itspragnesh&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&logo=eye" alt="Profile Views" />
 <img src="https://img.shields.io/badge/STATUS-CODING-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
 <img src="https://img.shields.io/badge/FOCUS-AI/ML-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" />
